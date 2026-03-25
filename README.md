@@ -80,10 +80,3 @@ LoLaeMon_InvenAI는 **사용자의 요청을 바탕으로 창의적인 발명품
 
 ---
 
-## 🔹 설치 및 실행
-
-```bash
-git clone https://github.com/yourusername/LoLaeMon_InvenAI.git
-cd LoLaeMon_InvenAI
-pip install -r requirements.txt
-streamlit run app.py
