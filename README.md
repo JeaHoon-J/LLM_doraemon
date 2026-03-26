@@ -82,5 +82,5 @@
 
 ---
 ## 🔹 Streamlit 구현 결과
-<img width="1729" height="868" alt="구현화면" src="https://github.com/user-attachments/assets/a4a622ec-02e2-4233-a255-9df69a61902f" />
+<img width="1729" height="868" alt="구현화면" src="https://github.com/user-attachments/assets/472b76d8-0238-4b59-8614-94ff160e3434" />
 
