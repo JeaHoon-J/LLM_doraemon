@@ -5,6 +5,8 @@
 **LoLaeMon_InvenAI**(도라에몽 + LLM,로라에몽)는 **사용자의 요청을 바탕으로 창의적인 발명품과 신기술을 만들어내는 AI 실험실**입니다.  
 단순 게임이 아니라, **LLM + 다양한 기술 정보 RAG 구조 기반의 Embedding, Vector DB, 프롬프트 설계, 실시간 인터랙션까지 모두 포함하고 있습니다.**
 
+<img width="1376" height="768" alt="KakaoTalk_20260326_015127174_01" src="https://github.com/user-attachments/assets/4a529642-bb47-4b92-88d4-4fca26da6824" />
+
 ---
 
 ## 🔹 핵심 목표
